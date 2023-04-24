@@ -1,0 +1,27 @@
+{
+  "name": "encryptedpastebin",
+  "version": "0.0.0",
+  "description": "encryptedpastebin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nosdav/encryptedpastebin.git"
+  },
+  "keywords": [
+    "nostr",
+    "nostdav",
+    "app"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nosdav/encryptedpastebin/issues"
+  },
+  "homepage": "https://github.com/nosdav/encryptedpastebin#readme",
+  "dependencies": {
+  }
+}
