@@ -1,5 +1,3 @@
-
-
 <div align="center">  
   <h1>encryptedpastebin</h1>
 </div>
@@ -24,6 +22,10 @@
 ## Introduction
 
 encryptedpastebin
+
+## Video Demo
+
+[![Video Demo](https://img.youtube.com/vi/kdRjKzowcpk/0.jpg)](https://www.youtube.com/watch?v=kdRjKzowcpk)
 
 ## License
 
